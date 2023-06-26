@@ -1,1 +1,1 @@
-# chatbot
+# custom ChatGPT model
